@@ -1,0 +1,57 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Translation Platform\n"
+"Report-Msgid-Bugs-To: support@test.com\n"
+"POT-Creation-Date: 2025-07-11 12:00+0500\n"
+"PO-Revision-Date: 2025-07-11 12:00+0500\n"
+"Last-Translator:  <my@test.com>\n"
+"Language-Team: test Translators <translators@test.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dashboard.title
+msgid "Welcome to test"
+msgstr "Welcome to test "
+
+#: login.label.username
+msgid "Username"
+msgstr "Username"
+
+#: login.label.password
+msgid "Password"
+msgstr "Password"
+
+#: login.button.submit
+msgid "Log In"
+msgstr "Log In"
+
+#: logout.message
+msgid "You have been logged out is now test."
+msgstr "You have been logged out."
+
+#: error.404
+msgid "Page not found"
+msgstr "Page not found"
+
+#: settings.label.language
+msgid "Select your language"
+msgstr "Select your language"
+
+#: notification.new.message
+msgid "You have a new message"
+msgstr "You have a new message"
+
+#: project.status.completed
+msgid "Project completed successfully"
+msgstr "Project completed successfully is now test"
+
+#: project.status.in_progress
+msgid "Project is currently in progress"
+msgstr "Project is currently in progress"
+
+#: footer.rights
+msgid "All rights reserved."
+msgstr "All rights reserved."

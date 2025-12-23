@@ -1,0 +1,13 @@
+/* Login screen translations */
+"login.title" = "Sign In";
+"login.email" = "Email Address";
+"login.password" = "Password";
+"login.button" = "Log In";
+
+/* Home screen translations */
+"home.welcome" = "Welcome!";
+"home.notifications" = "You have %d notifications";
+
+/* Error messages */
+"error.network" = "Network connection failed";
+"error.invalid_credentials" = "Invalid email or password";
